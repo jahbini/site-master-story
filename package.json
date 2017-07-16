@@ -1,0 +1,25 @@
+{
+  "name": "site-master-story",
+  "version": "1.0.0",
+  "description": "Backbone Object and Collection for site-master stories",
+  "main": "story.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jahbini/site-master-story.git"
+  },
+  "keywords": [
+    "backbone",
+    "story",
+    "attributes",
+    "markdown"
+  ],
+  "author": "James A. Hinds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahbini/site-master-story/issues"
+  },
+  "homepage": "https://github.com/jahbini/site-master-story#readme"
+}
